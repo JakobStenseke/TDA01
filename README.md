@@ -3,7 +3,7 @@
 ![](TDA01GIF.gif)
 
 
-<a href="https://drk4oz.itch.io/topological-data-analysis-01">Try it on itch.io</a>
+# <a href="https://drk4oz.itch.io/topological-data-analysis-01">Try it here</a>
 1. Set number of random data points to generate.
 2. Decide radius of each point.
 3. Press buttons to genearte points, pairs, or triangles.
