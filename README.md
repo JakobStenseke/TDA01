@@ -1,9 +1,10 @@
 # Topological Data Analysis 01
 
 ![](TDA01GIF.gif)
+
 Creation of Rips-complex(es) from random data points.
 
-<a href="https://drk4oz.itch.io/topological-data-analysis-01">Try it here,</a>
+<a href="https://drk4oz.itch.io/topological-data-analysis-01">Try it here</a>
 
 1. Set slider to decide the number of random data points to generate.
 2. Decide radius of each point.
